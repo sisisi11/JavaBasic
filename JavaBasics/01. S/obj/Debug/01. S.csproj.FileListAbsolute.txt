@@ -1,0 +1,6 @@
+c:\users\bogdan alov\documents\visual studio 2017\Projects\JavaBasics\01. S\bin\Debug\_01.S.exe.config
+c:\users\bogdan alov\documents\visual studio 2017\Projects\JavaBasics\01. S\bin\Debug\_01.S.exe
+c:\users\bogdan alov\documents\visual studio 2017\Projects\JavaBasics\01. S\bin\Debug\_01.S.pdb
+c:\users\bogdan alov\documents\visual studio 2017\Projects\JavaBasics\01. S\obj\Debug\01. S.csprojResolveAssemblyReference.cache
+c:\users\bogdan alov\documents\visual studio 2017\Projects\JavaBasics\01. S\obj\Debug\_01.S.exe
+c:\users\bogdan alov\documents\visual studio 2017\Projects\JavaBasics\01. S\obj\Debug\_01.S.pdb
